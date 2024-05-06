@@ -1,2 +1,3 @@
 # SutikshanMain
-This is my Git Repositories 
+This is my Git Repository.
+Author - Sutikshan Kashyap
